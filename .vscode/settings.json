@@ -4,6 +4,7 @@
     "argmax",
     "argmin",
     "asarray",
+    "dtype",
     "keepdims"
   ]
 }
