@@ -17,13 +17,15 @@ TO DO:
 - (DONE) Round
 - (DONE) arguments
 - (DONE) ellipsis in slices
-
-- np.where
-- Better support for kwargs using this 
+- (DONE) Better support for kwargs using this 
 
 - improve assignment: parser should not return to_list, optionally
 - What about np`statement; \n statement;\n ...;\n return blah, blah, blah`
+
 - maximum and minimum with ↑ and ↓. What priority wr to + *, ** and the logical operators?
+- np.where
+
+- npm, license and docs
 
 - np.unique, np.sort, np.random.shuffle
 - np.stack, np.concatenate, np.dstack, etc.
