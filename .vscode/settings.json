@@ -7,8 +7,10 @@
     "asarray",
     "atol",
     "dtype",
+    "geomspace",
     "isclose",
     "keepdims",
+    "linspace",
     "rtol"
   ]
 }

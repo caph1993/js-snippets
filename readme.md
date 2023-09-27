@@ -10,16 +10,26 @@ TO DO:
 - (Done) numbers in -1.4e-3 notation
 - (Done) isclose
 - (Done) Concurrency: the variables are being replaced with a global variable
-- linspace and geomspace
-- Example with integration to D3JS inside the notebook
-- Better support for kwargs using this
+- (Done) First integration to D3JS inside the notebook
+- (DONE) shortcut reduce of any and all and allclose
+- (DONE) linspace and geomspace
+- (DONE) sign, abs, exp, log, sin, cos, sinh, cosh, asin, asin, ...
+- (DONE) Round
+- (DONE) arguments
+- (DONE) ellipsis in slices
+
+- np.where
+- Better support for kwargs using this 
+
 - improve assignment: parser should not return to_list, optionally
-- tuple arguments
+- What about np`statement; \n statement;\n ...;\n return blah, blah, blah`
 - maximum and minimum with ↑ and ↓. What priority wr to + *, ** and the logical operators?
-- np.unique
+
+- np.unique, np.sort, np.random.shuffle
+- np.stack, np.concatenate, np.dstack, etc.
+
 - group_by function
-- ellipsis in slices
-- shortcut reduce of any and all and allclose
+- np.split
 
 - Write concurrency tests
 - Random module
