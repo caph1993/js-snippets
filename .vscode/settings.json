@@ -1,10 +1,14 @@
 {
   "cSpell.words": [
+    "allclose",
     "arange",
     "argmax",
     "argmin",
     "asarray",
+    "atol",
     "dtype",
-    "keepdims"
+    "isclose",
+    "keepdims",
+    "rtol"
   ]
 }
